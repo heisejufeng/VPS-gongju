@@ -1,0 +1,11 @@
+{
+  "name": "vps-gongju",
+  "type": "javascript",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-01-31",
+  "env": {
+    "production": {
+      "name": "vps-gongju-production"
+    }
+  }
+}
